@@ -1,0 +1,1 @@
+jn = int((input("Berapa Jumlah Nilai Yang Akan Anda Masukkan : ")))
