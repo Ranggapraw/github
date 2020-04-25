@@ -6,3 +6,8 @@ if(jn==1):
     a1 = int((input("Masukkan Nilai Anda : ")))
     a2 = int((input("Masukkan Nilai Anda : ")))
     print("Rata - Rata  Anda Adalah ", ((a1+a2)/jn))
+    if(jn==3):
+    a1 = int((input("Masukkan Nilai Anda : ")))
+    a2 = int((input("Masukkan Nilai Anda : ")))
+    a3 = int((input("Masukkan Nilai Anda : ")))
+    print("Rata - Rata  Anda Adalah ", ((a1+a2+a3)/jn))
